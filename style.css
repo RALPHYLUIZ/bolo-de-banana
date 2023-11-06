@@ -4,6 +4,7 @@
     box-sizing: border-box;
 }
 body{
+    color: rgb(32, 65, 95);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     padding-left: 240px;
     padding-right: 480px;
@@ -20,6 +21,7 @@ h1{
 
 
 .imagem{
+    border-radius: 40px;
     width: 500px;
 
     
@@ -31,12 +33,12 @@ h1{
 
 }
 body{
-    background-color: rgba(201, 218, 235, 0.479);
+    background-color: yellowgreen;
 }
 
-div{
-    p{
-        margin-block-end: 10;
+/* div p{
+
+        margin-block-end: 50;
     }
-}
+} */
 
